@@ -18,7 +18,7 @@ This project addresses that challenge by leveraging the generative AI power of I
 **Dataset**
 - Source: Reddit Subreddit r/CryptoMarkets
 - Description: A dataset containing over 37,000 unique posts, including the fields title (post title) and selftext (post content), which serve as the basis for analysis.
-- Link: [PASTE LINK TO YOUR DATASET HERE, E.G., KAGGLE OR CSV IN THIS REPO]
+- Link: https://www.kaggle.com/datasets/leukipp/reddit-crypto-data or R_cryptomarkets.csv in this repo
 
 **Tech Stack**
 - Programming Language: Python 3.10
